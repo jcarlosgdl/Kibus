@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Phase_3.Properties
+namespace Phase_3__bees_.Properties
 {
 
 

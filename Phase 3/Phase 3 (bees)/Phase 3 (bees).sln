@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phase 3", "Phase 3\Phase 3.csproj", "{0D9C5252-C20C-43EA-AF99-C8DA923C2A7B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phase 3 (bees)", "Phase 3 (bees)\Phase 3 (bees).csproj", "{D7483069-4B17-45B7-988D-72B9779E19E8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0D9C5252-C20C-43EA-AF99-C8DA923C2A7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0D9C5252-C20C-43EA-AF99-C8DA923C2A7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0D9C5252-C20C-43EA-AF99-C8DA923C2A7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0D9C5252-C20C-43EA-AF99-C8DA923C2A7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7483069-4B17-45B7-988D-72B9779E19E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7483069-4B17-45B7-988D-72B9779E19E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7483069-4B17-45B7-988D-72B9779E19E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7483069-4B17-45B7-988D-72B9779E19E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

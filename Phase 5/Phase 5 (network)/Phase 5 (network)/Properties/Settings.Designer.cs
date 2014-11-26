@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Phase_5.Properties
+namespace Phase_5__network_.Properties
 {
 
 

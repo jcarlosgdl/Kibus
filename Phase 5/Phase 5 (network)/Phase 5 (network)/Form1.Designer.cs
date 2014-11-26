@@ -1,4 +1,4 @@
-﻿namespace Phase_5
+﻿namespace Phase_5__network_
 {
     partial class Form1
     {

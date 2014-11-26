@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Phase_6
+namespace Phase_6__integrator_
 {
     static class Program
     {

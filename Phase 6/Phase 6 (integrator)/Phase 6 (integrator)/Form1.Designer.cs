@@ -1,4 +1,4 @@
-﻿namespace Phase_6
+﻿namespace Phase_6__integrator_
 {
     partial class Form1
     {

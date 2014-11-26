@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Phase 6")]
+[assembly: AssemblyTitle("Phase 6 (integrator)")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Microsoft")]
-[assembly: AssemblyProduct("Phase 6")]
+[assembly: AssemblyProduct("Phase 6 (integrator)")]
 [assembly: AssemblyCopyright("Copyright © Microsoft 2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("3922dd49-420b-40b0-88ba-8ddb15960c56")]
+[assembly: Guid("73c4e32e-06b9-472a-9ac0-00022f6ff765")]
 
 // Version information for an assembly consists of the following four values:
 //

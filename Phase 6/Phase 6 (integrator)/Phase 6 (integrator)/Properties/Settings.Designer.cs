@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Phase_6.Properties
+namespace Phase_6__integrator_.Properties
 {
 
 

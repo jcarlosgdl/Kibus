@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Pase 4")]
+[assembly: AssemblyTitle("Phase 4 (ants)")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Microsoft")]
-[assembly: AssemblyProduct("Pase 4")]
+[assembly: AssemblyProduct("Phase 4 (ants)")]
 [assembly: AssemblyCopyright("Copyright © Microsoft 2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("85cdf462-93d8-4312-839c-a44fd3f2e962")]
+[assembly: Guid("02c4891d-1374-4a47-9776-604c79bebebf")]
 
 // Version information for an assembly consists of the following four values:
 //

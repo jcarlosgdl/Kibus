@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Pase_4
+namespace Phase_4__ants_
 {
     static class Program
     {

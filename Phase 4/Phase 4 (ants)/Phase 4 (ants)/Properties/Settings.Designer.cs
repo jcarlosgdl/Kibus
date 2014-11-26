@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Pase_4.Properties
+namespace Phase_4__ants_.Properties
 {
 
 
